@@ -196,6 +196,22 @@ body {
     .skill[data-skill="JavaScript"]:hover {
         background-color: #d35400;
     }
+
+    .contact-info {
+      list-style-type: none;
+      padding: 0;
+      margin: 20px;
+    }
+
+    .contact-info li {
+      margin-bottom: 10px;
+      color: #fff;
+    }
+
+    .contact-info i {
+      margin-right: 10px;
+    }
+
     
     
     .projects {
